@@ -1,0 +1,6 @@
+num = float(input("Digite um número"))
+num2 = float(input("Digite outro número"))
+total = (num+num2)
+total2 = str(total)
+print(f"A total é:{total}")
+print("A total é:"+total2)
