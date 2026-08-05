@@ -5,3 +5,7 @@ for x in fruits:
 
 for x in range(1, 7):
   print(x)
+
+#vá até 20 e mostre só pares
+for n in range(0,21,2):
+  print("numero par:",n)

@@ -19,4 +19,3 @@ except ZeroDivisionError:
     print("Digite um número diferente de zero.")
 except ValueError:
     print("Digite qualquer número, não texto!!")
-'''
