@@ -5,5 +5,6 @@ def contar(n):
         print(i)
         i += 1
 
+numero = int(input("Digite até qual número contar: "))
 
-contar(5)
+contar(numero)
